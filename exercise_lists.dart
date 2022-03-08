@@ -1,12 +1,12 @@
 [
-  {"image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/anderson-silva-vitor-belort-ufc.jpg?raw=true","id":1},
-  {"image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/icon-512.png?raw=true","id":2},
-  {"image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/roby_vs_mcdonald.jpg?raw=true","id":3},
-  {"image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/anderson-silva-vitor-belort-ufc.jpg?raw=true","id":4},
-  {"image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/icon-512.png?raw=true","id":5},
-  {"image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/roby_vs_mcdonald.jpg?raw=true","id":6},
-{"image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/anderson-silva-vitor-belort-ufc.jpg?raw=true","id":7},
-  {"image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/icon-512.png?raw=true","id":8},
-  {"image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/roby_vs_mcdonald.jpg?raw=true","id":9},
-  {"image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/anderson-silva-vitor-belort-ufc.jpg?raw=true","id":10}
+  {"name":"fight1","image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/anderson-silva-vitor-belort-ufc.jpg?raw=true","id":1},
+  {"name":"fight2","image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/icon-512.png?raw=true","id":2},
+  {"name":"fight3","image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/roby_vs_mcdonald.jpg?raw=true","id":3},
+  {"name":"fight4","image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/anderson-silva-vitor-belort-ufc.jpg?raw=true","id":4},
+  {"name":"fight5","image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/icon-512.png?raw=true","id":5},
+  {"name":"fight6","image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/roby_vs_mcdonald.jpg?raw=true","id":6},
+{"name":"fight7","image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/anderson-silva-vitor-belort-ufc.jpg?raw=true","id":7},
+  {"name":"fight8","image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/icon-512.png?raw=true","id":8},
+  {"name":"fight9","image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/roby_vs_mcdonald.jpg?raw=true","id":9},
+  {"name":"fight10","image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/anderson-silva-vitor-belort-ufc.jpg?raw=true","id":10}
 ]
