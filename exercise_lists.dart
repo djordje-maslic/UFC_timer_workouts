@@ -14,7 +14,7 @@
    "little_ex_list":[
                  {"name":"Punch", "duration":3, "id":0, "power":100},
                  {"name":"Kick", "duration":3, "id":1, "power": 70},
-                 {"name":"Shut", "duration":3, "id":2, "power": 50},
+                 {"name":"Shoot", "duration":3, "id":2, "power": 50},
                  {"name":"Sproll", "duration":3, "id":3, "power": 60},
                  {"name":"Wrestle", "duration":3, "id":4, "power": 30}
                  
@@ -34,7 +34,7 @@
    "little_ex_list":[
                  {"name":"Punch", "duration":3, "id":0, "power":100},
                  {"name":"Kick", "duration":3, "id":1, "power": 70},
-                 {"name":"Shut", "duration":3, "id":2, "power": 50},
+                 {"name":"Shoot", "duration":3, "id":2, "power": 50},
                  {"name":"Sproll", "duration":3, "id":3, "power": 60},
                  {"name":"Wrestle", "duration":3, "id":4, "power": 30}
                  
@@ -54,7 +54,7 @@
    "little_ex_list":[
                  {"name":"Punch", "duration":3, "id":0, "power":100},
                  {"name":"Kick", "duration":3, "id":1, "power": 70},
-                 {"name":"Shut", "duration":3, "id":2, "power": 50},
+                 {"name":"Shoot", "duration":3, "id":2, "power": 50},
                  {"name":"Sproll", "duration":3, "id":3, "power": 60},
                  {"name":"Wrestle", "duration":3, "id":4, "power": 30}
                  
@@ -74,7 +74,7 @@
    "little_ex_list":[
                  {"name":"Punch", "duration":3, "id":0, "power":100},
                  {"name":"Kick", "duration":3, "id":1, "power": 70},
-                 {"name":"Shut", "duration":3, "id":2, "power": 50},
+                 {"name":"Shoot", "duration":3, "id":2, "power": 50},
                  {"name":"Sproll", "duration":3, "id":3, "power": 60},
                  {"name":"Wrestle", "duration":3, "id":4, "power": 30}
                  
@@ -94,7 +94,7 @@
    "little_ex_list":[
                  {"name":"Punch", "duration":3, "id":0, "power":100},
                  {"name":"Kick", "duration":3, "id":1, "power": 70},
-                 {"name":"Shut", "duration":3, "id":2, "power": 50},
+                 {"name":"Shoot", "duration":3, "id":2, "power": 50},
                  {"name":"Sproll", "duration":3, "id":3, "power": 60},
                  {"name":"Wrestle", "duration":3, "id":4, "power": 30}
                  
@@ -114,7 +114,7 @@
    "little_ex_list":[
                  {"name":"Punch", "duration":3, "id":0, "power":100},
                  {"name":"Kick", "duration":3, "id":1, "power": 70},
-                 {"name":"Shut", "duration":3, "id":2, "power": 50},
+                 {"name":"Shoot", "duration":3, "id":2, "power": 50},
                  {"name":"Sproll", "duration":3, "id":3, "power": 60},
                  {"name":"Wrestle", "duration":3, "id":4, "power": 30}
                  
@@ -134,7 +134,7 @@
    "little_ex_list":[
                  {"name":"Punch", "duration":3, "id":0, "power":100},
                  {"name":"Kick", "duration":3, "id":1, "power": 70},
-                 {"name":"Shut", "duration":3, "id":2, "power": 50},
+                 {"name":"Shoot", "duration":3, "id":2, "power": 50},
                  {"name":"Sproll", "duration":3, "id":3, "power": 60},
                  {"name":"Wrestle", "duration":3, "id":4, "power": 30}
                  
@@ -154,7 +154,7 @@
    "little_ex_list":[
                  {"name":"Punch", "duration":3, "id":0, "power":100},
                  {"name":"Kick", "duration":3, "id":1, "power": 70},
-                 {"name":"Shut", "duration":3, "id":2, "power": 50},
+                 {"name":"Shoot", "duration":3, "id":2, "power": 50},
                  {"name":"Sproll", "duration":3, "id":3, "power": 60},
                  {"name":"Wrestle", "duration":3, "id":4, "power": 30}
                  
@@ -174,7 +174,7 @@
    "little_ex_list":[
                  {"name":"Punch", "duration":3, "id":0, "power":100},
                  {"name":"Kick", "duration":3, "id":1, "power": 70},
-                 {"name":"Shut", "duration":3, "id":2, "power": 50},
+                 {"name":"Shoot", "duration":3, "id":2, "power": 50},
                  {"name":"Sproll", "duration":3, "id":3, "power": 60},
                  {"name":"Wrestle", "duration":3, "id":4, "power": 30}
                  
@@ -194,7 +194,7 @@
    "little_ex_list":[
                  {"name":"Punch", "duration":3, "id":0, "power":100},
                  {"name":"Kick", "duration":3, "id":1, "power": 70},
-                 {"name":"Shut", "duration":3, "id":2, "power": 50},
+                 {"name":"Shoot", "duration":3, "id":2, "power": 50},
                  {"name":"Sproll", "duration":3, "id":3, "power": 60},
                  {"name":"Wrestle", "duration":3, "id":4, "power": 30}
                  
