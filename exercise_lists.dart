@@ -1,5 +1,5 @@
 [
-  {"name":"fight1 Khabib","image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/anderson-silva-vitor-belort-ufc.jpg?raw=true","id":0,
+  {"name":"fight1 Khabib","image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/c2dafd73211c5d88427c15235bab46f2a8bcd11a/usman.png?raw=true","id":0,
   "big_ex_list":[{"name":"Ready", "duration":10, "id":"0"},
                  {"name":"Round1", "duration":300, "id":"1"},
                  {"name":"Rest", "duration":60, "id":"2"},
