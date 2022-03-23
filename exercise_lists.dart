@@ -139,7 +139,7 @@
                  {"name":"Wrestle", "duration":3, "id":4, "power": 30}
                  
    ]},
-  {"name":"fight8","image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/icon-512.png?raw=true","id":7,
+  {"name":"fight8","image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/pngwing.com.png?raw=true","id":7,
   "big_ex_list":[{"name":"Ready", "duration":10, "id":"0"},
                  {"name":"Round1", "duration":300, "id":"1"},
                  {"name":"Rest", "duration":60, "id":"2"},
