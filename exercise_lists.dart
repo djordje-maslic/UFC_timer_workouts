@@ -59,7 +59,7 @@
                  {"name":"Wrestle", "duration":3, "id":4, "power": 30}
                  
    ]},
-  {"name":"fight4 MCgregor","image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/anderson-silva-vitor-belort-ufc.jpg?raw=true","id":3,
+  {"name":"fight4 MCgregor","image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/rose.png?raw=true","id":3,
   "big_ex_list":[{"name":"Ready", "duration":10, "id":"0"},
                  {"name":"Round1", "duration":300, "id":"1"},
                  {"name":"Rest", "duration":60, "id":"2"},
