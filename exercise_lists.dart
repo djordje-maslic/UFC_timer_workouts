@@ -1,7 +1,7 @@
 [
   {"name":"UFC 189 Lawler vs. MacDonald 2","image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/pngwing.com.png?raw=true","id":0,
   "big_ex_list":[{"name":"Ready", "duration":10, "id":"0"},
-                 {"name":"Round1", "duration":30, "id":"1"},
+                 {"name":"Round1", "duration":300, "id":"1"},
                  {"name":"Rest", "duration":60, "id":"2"},
                  {"name":"Round2", "duration":300, "id":"3"},
                  {"name":"Rest", "duration":60, "id":"4"},
