@@ -127,7 +127,7 @@
       {"name":"Move", "duration":3, "id":58, "power":50, "exercises_number":31},
       {"name":"Punch", "duration":3, "id":89, "power": 50, "exercises_number":5},
       {"name":"Punch", "duration":3, "id":94, "power": 30, "exercises_number":2},
-      {"name":"Punch", "duration":3, "id":96, "power": 100, "execises_number":1},
+      {"name":"Punch", "duration":3, "id":96, "power": 100, "exercises_number":1},
       {"name":"Kick", "duration":3, "id":97, "power": 50, "exercises_number":2},  
       {"name":"Sprawl", "duration":3, "id":99, "power": 50, "exercises_number":1}
     ],
@@ -182,7 +182,7 @@
       {"name":"Move", "duration":3, "id":58, "power":50, "exercises_number":31},
       {"name":"Punch", "duration":3, "id":89, "power": 50, "exercises_number":5},
       {"name":"Punch", "duration":3, "id":94, "power": 30, "exercises_number":2},
-      {"name":"Punch", "duration":3, "id":96, "power": 100, "execises_number":1},
+      {"name":"Punch", "duration":3, "id":96, "power": 100, "exercises_number":1},
       {"name":"Kick", "duration":3, "id":97, "power": 50, "exercises_number":2},  
       {"name":"Sprawl", "duration":3, "id":99, "power": 50, "exercises_number":1}
     ],
@@ -237,7 +237,7 @@
       {"name":"Move", "duration":3, "id":58, "power":50, "exercises_number":31},
       {"name":"Punch", "duration":3, "id":89, "power": 50, "exercises_number":5},
       {"name":"Punch", "duration":3, "id":94, "power": 30, "exercises_number":2},
-      {"name":"Punch", "duration":3, "id":96, "power": 100, "execises_number":1},
+      {"name":"Punch", "duration":3, "id":96, "power": 100, "exercises_number":1},
       {"name":"Kick", "duration":3, "id":97, "power": 50, "exercises_number":2},  
       {"name":"Sprawl", "duration":3, "id":99, "power": 50, "exercises_number":1}
     ],
@@ -292,7 +292,7 @@
       {"name":"Move", "duration":3, "id":58, "power":50, "exercises_number":31},
       {"name":"Punch", "duration":3, "id":89, "power": 50, "exercises_number":5},
       {"name":"Punch", "duration":3, "id":94, "power": 30, "exercises_number":2},
-      {"name":"Punch", "duration":3, "id":96, "power": 100, "execises_number":1},
+      {"name":"Punch", "duration":3, "id":96, "power": 100, "exercises_number":1},
       {"name":"Kick", "duration":3, "id":97, "power": 50, "exercises_number":2},  
       {"name":"Sprawl", "duration":3, "id":99, "power": 50, "exercises_number":1}
     ],
@@ -347,7 +347,7 @@
       {"name":"Move", "duration":3, "id":58, "power":50, "exercises_number":31},
       {"name":"Punch", "duration":3, "id":89, "power": 50, "exercises_number":5},
       {"name":"Punch", "duration":3, "id":94, "power": 30, "exercises_number":2},
-      {"name":"Punch", "duration":3, "id":96, "power": 100, "execises_number":1},
+      {"name":"Punch", "duration":3, "id":96, "power": 100, "exercises_number":1},
       {"name":"Kick", "duration":3, "id":97, "power": 50, "exercises_number":2},  
       {"name":"Sprawl", "duration":3, "id":99, "power": 50, "exercises_number":1}
     ],
@@ -402,7 +402,7 @@
       {"name":"Move", "duration":3, "id":58, "power":50, "exercises_number":31},
       {"name":"Punch", "duration":3, "id":89, "power": 50, "exercises_number":5},
       {"name":"Punch", "duration":3, "id":94, "power": 30, "exercises_number":2},
-      {"name":"Punch", "duration":3, "id":96, "power": 100, "execises_number":1},
+      {"name":"Punch", "duration":3, "id":96, "power": 100, "exercises_number":1},
       {"name":"Kick", "duration":3, "id":97, "power": 50, "exercises_number":2},  
       {"name":"Sprawl", "duration":3, "id":99, "power": 50, "exercises_number":1}
     ],
@@ -457,7 +457,7 @@
       {"name":"Move", "duration":3, "id":58, "power":50, "exercises_number":31},
       {"name":"Punch", "duration":3, "id":89, "power": 50, "exercises_number":5},
       {"name":"Punch", "duration":3, "id":94, "power": 30, "exercises_number":2},
-      {"name":"Punch", "duration":3, "id":96, "power": 100, "execises_number":1},
+      {"name":"Punch", "duration":3, "id":96, "power": 100, "exercises_number":1},
       {"name":"Kick", "duration":3, "id":97, "power": 50, "exercises_number":2},  
       {"name":"Sprawl", "duration":3, "id":99, "power": 50, "exercises_number":1}
     ],
@@ -512,7 +512,7 @@
       {"name":"Move", "duration":3, "id":58, "power":50, "exercises_number":31},
       {"name":"Punch", "duration":3, "id":89, "power": 50, "exercises_number":5},
       {"name":"Punch", "duration":3, "id":94, "power": 30, "exercises_number":2},
-      {"name":"Punch", "duration":3, "id":96, "power": 100, "execises_number":1},
+      {"name":"Punch", "duration":3, "id":96, "power": 100, "exercises_number":1},
       {"name":"Kick", "duration":3, "id":97, "power": 50, "exercises_number":2},  
       {"name":"Sprawl", "duration":3, "id":99, "power": 50, "exercises_number":1}
     ],
