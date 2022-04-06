@@ -65,7 +65,7 @@
                  {"name":"Rest", "duration":60, "id":"6"},
                  {"name":"Round4", "duration":300, "id":"7"},
                  {"name":"Rest", "duration":60, "id":"8"},
-                 {"name":"Round5", "duration":300, "id":"7"}
+                 {"name":"Round5", "duration":300, "id":"9"}
                 ], 
   "little_ex_list1":[
       {"name":"Move", "duration":3, "id":0, "power":30, "exercises_number":58},
@@ -120,7 +120,7 @@
                  {"name":"Rest", "duration":60, "id":"6"},
                  {"name":"Round4", "duration":300, "id":"7"},
                  {"name":"Rest", "duration":60, "id":"8"},
-                 {"name":"Round5", "duration":300, "id":"7"}
+                 {"name":"Round5", "duration":300, "id":"9"}
                 ], 
  "little_ex_list1":[
       {"name":"Move", "duration":3, "id":0, "power":30, "exercises_number":58},
@@ -175,7 +175,7 @@
                  {"name":"Rest", "duration":60, "id":"6"},
                  {"name":"Round4", "duration":300, "id":"7"},
                  {"name":"Rest", "duration":60, "id":"8"},
-                 {"name":"Round5", "duration":300, "id":"7"}
+                 {"name":"Round5", "duration":300, "id":"9"}
                 ], 
  "little_ex_list1":[
       {"name":"Move", "duration":3, "id":0, "power":30, "exercises_number":58},
@@ -230,7 +230,7 @@
                  {"name":"Rest", "duration":60, "id":"6"},
                  {"name":"Round4", "duration":300, "id":"7"},
                  {"name":"Rest", "duration":60, "id":"8"},
-                 {"name":"Round5", "duration":300, "id":"7"}
+                 {"name":"Round5", "duration":300, "id":"9"}
                 ], 
   "little_ex_list1":[
       {"name":"Move", "duration":3, "id":0, "power":30, "exercises_number":58},
@@ -285,7 +285,7 @@
                  {"name":"Rest", "duration":60, "id":"6"},
                  {"name":"Round4", "duration":300, "id":"7"},
                  {"name":"Rest", "duration":60, "id":"8"},
-                 {"name":"Round5", "duration":300, "id":"7"}
+                 {"name":"Round5", "duration":300, "id":"9"}
                 ], 
   "little_ex_list1":[
       {"name":"Move", "duration":3, "id":0, "power":30, "exercises_number":58},
@@ -340,7 +340,7 @@
                  {"name":"Rest", "duration":60, "id":"6"},
                  {"name":"Round4", "duration":300, "id":"7"},
                  {"name":"Rest", "duration":60, "id":"8"},
-                 {"name":"Round5", "duration":300, "id":"7"}
+                 {"name":"Round5", "duration":300, "id":"9"}
                 ], 
   "little_ex_list1":[
       {"name":"Move", "duration":3, "id":0, "power":30, "exercises_number":58},
@@ -395,7 +395,7 @@
                  {"name":"Rest", "duration":60, "id":"6"},
                  {"name":"Round4", "duration":300, "id":"7"},
                  {"name":"Rest", "duration":60, "id":"8"},
-                 {"name":"Round5", "duration":300, "id":"7"}
+                 {"name":"Round5", "duration":300, "id":"9"}
                 ], 
   "little_ex_list1":[
       {"name":"Move", "duration":3, "id":0, "power":30, "exercises_number":58},
@@ -450,7 +450,7 @@
                  {"name":"Rest", "duration":60, "id":"6"},
                  {"name":"Round4", "duration":300, "id":"7"},
                  {"name":"Rest", "duration":60, "id":"8"},
-                 {"name":"Round5", "duration":300, "id":"7"}
+                 {"name":"Round5", "duration":300, "id":"9"}
                 ], 
   "little_ex_list1":[
       {"name":"Move", "duration":3, "id":0, "power":30, "exercises_number":58},
@@ -505,7 +505,7 @@
                  {"name":"Rest", "duration":60, "id":"6"},
                  {"name":"Round4", "duration":300, "id":"7"},
                  {"name":"Rest", "duration":60, "id":"8"},
-                 {"name":"Round5", "duration":300, "id":"7"}
+                 {"name":"Round5", "duration":300, "id":"9"}
                 ], 
    "little_ex_list1":[
       {"name":"Move", "duration":3, "id":0, "power":30, "exercises_number":58},
