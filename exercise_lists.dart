@@ -12,7 +12,7 @@
                  {"name":"Round5", "duration":60, "id":"9"}
                 ], 
    "little_ex_list1":[
-      {"name":"Move", "duration":3, "id":0, "power":30, "zzzzzzzzzzzr":58},
+      {"name":"Move", "duration":3, "id":0, "power":30, "exercises_number":58},
       {"name":"Move", "duration":3, "id":58, "power":50, "exercises_number":31},
       {"name":"Punch", "duration":3, "id":89, "power": 50, "exercises_number":5},
       {"name":"Punch", "duration":3, "id":94, "power": 30, "exercises_number":2},
