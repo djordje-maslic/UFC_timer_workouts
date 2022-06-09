@@ -75,7 +75,7 @@
       {"name":"Wrestle", "duration":3, "id":96, "power": 30, "exercises_number":3},
       {"name":"Wrestle", "duration":3, "id":97, "power": 50, "exercises_number":37},  
       {"name":"Wrestle", "duration":3, "id":99, "power": 80, "exercises_number":7},
-     {"name":"Wrestle", "duration":3, "id":100, "power": 100, "exercises_number":2}
+      {"name":"Wrestle", "duration":3, "id":100, "power": 100, "exercises_number":2}
     ],
   "little_ex_list2":[
       {"name":"Move", "duration":3, "id":0, "power":30, "exercises_number":1},
@@ -136,7 +136,7 @@
    
    ]
   },
-  {"name":"fight3 JSP","image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/roby_vs_mcdonald.jpg?raw=true","id":2,
+  {"name":"UFC 245 Usman vs. Cavington","image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/c_usman.png.png?raw=true","id":2,
   "big_ex_list":[{"name":"Ready", "duration":10, "id":"0"},
                  {"name":"Round1", "duration":300, "id":"1"},
                  {"name":"Rest", "duration":60, "id":"2"},
@@ -146,49 +146,60 @@
                  {"name":"Rest", "duration":60, "id":"6"},
                  {"name":"Round4", "duration":300, "id":"7"},
                  {"name":"Rest", "duration":60, "id":"8"},
-                 {"name":"Round5", "duration":300, "id":"9"}
+                 {"name":"Round5", "duration":250, "id":"9"}
                 ], 
  "little_ex_list1":[
-      {"name":"Move", "duration":3, "id":0, "power":30, "exercises_number":58},
-      {"name":"Move", "duration":3, "id":58, "power":50, "exercises_number":31},
-      {"name":"Punch", "duration":3, "id":89, "power": 50, "exercises_number":5},
-      {"name":"Punch", "duration":3, "id":94, "power": 30, "exercises_number":2},
-      {"name":"Punch", "duration":3, "id":96, "power": 100, "exercises_number":1},
-      {"name":"Kick", "duration":3, "id":97, "power": 50, "exercises_number":2},  
-      {"name":"Sprawl", "duration":3, "id":99, "power": 50, "exercises_number":1}
+      {"name":"Move", "duration":3, "id":0, "power":50, "exercises_number":48},
+      {"name":"Move", "duration":3, "id":58, "power":80, "exercises_number":1},
+   
+      {"name":"Punch", "duration":3, "id":89, "power": 50, "exercises_number":40},
+      {"name":"Punch", "duration":3, "id":94, "power": 80, "exercises_number":4},
+   
+      {"name":"Kick", "duration":3, "id":96, "power": 50, "exercises_number":5},
+      {"name":"Kick", "duration":3, "id":97, "power": 80, "exercises_number":2}
     ],
   "little_ex_list2":[
-      {"name":"Move", "duration":3, "id":0, "power":30, "exercises_number":12},
-      {"name":"Move", "duration":3, "id":12, "power":50, "exercises_number":40},
-      {"name":"Move", "duration":3, "id":52, "power":80, "exercises_number":24},
-      {"name":"Move", "duration":3, "id":76, "power":100, "exercises_number":2},
-      {"name":"Punch", "duration":3, "id":78, "power":50,"exercises_number":8},
-      {"name":"Punch", "duration":3, "id":86, "power":80, "exercises_number":13},
-      {"name":"Punch", "duration":3, "id":99, "power":100, "exercises_number":1}
+      {"name":"Move", "duration":3, "id":0, "power":30, "exercises_number":18},
+      {"name":"Move", "duration":3, "id":12, "power":50, "exercises_number":48},
+
+      {"name":"Punch", "duration":3, "id":78, "power":50,"exercises_number":25},
+      {"name":"Punch", "duration":3, "id":86, "power":80, "exercises_number":3},
+    
+      {"name":"Kick", "duration":3, "id":99, "power":50, "exercises_number":6}
    ],
    "little_ex_list3":[
-     {"name":"Move", "duration":3, "id":0, "power":50, "exercises_number":34},
-     {"name":"Move", "duration":3, "id":34, "power":80, "exercises_number":36},
-     {"name":"Punch", "duration":3, "id":70, "power":30, "exercises_number":1},
-     {"name":"Punch", "duration":3, "id":71, "power":50, "exercises_number":3},
-     {"name":"Punch", "duration":3, "id":74, "power":80, "exercises_number":15},
-     {"name":"Punch", "duration":3, "id":89, "power": 100, "exercises_number":6},
-     {"name":"Kick", "duration":3, "id":95, "power": 80, "exercises_number":2},
-     {"name":"Wrestle", "duration":3, "id":97, "power": 80, "exercises_number":3}  
+     {"name":"Move", "duration":3, "id":0, "power":30, "exercises_number":15},
+     {"name":"Move", "duration":3, "id":34, "power":50, "exercises_number":61},
+     
+     {"name":"Punch", "duration":3, "id":71, "power":50, "exercises_number":15},
+     {"name":"Punch", "duration":3, "id":74, "power":80, "exercises_number":3},
+     
+     {"name":"Kick", "duration":3, "id":95, "power": 50, "exercises_number":4},
+     {"name":"Kick", "duration":3, "id":96, "power": 80, "exercises_number":1},
+
+     {"name":"Wrestle", "duration":3, "id":97, "power": 50, "exercises_number":1}  
     ],"little_ex_list4":[
-     {"name":"Move", "duration":3, "id":0, "power":50, "exercises_number":70},
-     {"name":"Punch", "duration":3, "id":70, "power":30, "exercises_number":1},
-     {"name":"Punch", "duration":3, "id":71, "power":50, "exercises_number":21},
-     {"name":"Punch", "duration":3, "id":92, "power":80, "exercises_number":2},
-     {"name":"Punch", "duration":3, "id":94, "power":100, "exercises_number":2},
-     {"name":"Kick", "duration":3, "id":96, "power": 50, "exercises_number":1},
-     {"name":"Sprawl", "duration":3, "id":97, "power": 50, "exercises_number":1},
-     {"name":"Wrestle", "duration":3, "id":98, "power": 50, "exercises_number":2}
+     {"name":"Move", "duration":3, "id":0, "power":50, "exercises_number":65},
+     
+     {"name":"Punch", "duration":3, "id":70, "power":50, "exercises_number":26},
+     {"name":"Punch", "duration":3, "id":71, "power":80, "exercises_number":3},
+  
+     {"name":"Kick", "duration":3, "id":96, "power": 50, "exercises_number":5},
+     {"name":"Kick", "duration":3, "id":97, "power": 80, "exercises_number":1}
     ],"little_ex_list5":[
-      {"name":"Move", "duration":3, "id":0, "power":50, "exercises_number":5},
-      {"name":"Move", "duration":3, "id":5, "power":80, "exercises_number":3},
-      {"name":"Punch", "duration":3, "id":8, "power":50, "exercises_number":3},
-      {"name":"Punch", "duration":3, "id":11, "power":80, "exercises_number":9}
+      {"name":"Move", "duration":3, "id":0, "power":30, "exercises_number":5},
+      {"name":"Move", "duration":3, "id":5, "power":50, "exercises_number":35},
+      {"name":"Move", "duration":3, "id":6, "power":80, "exercises_number":1},
+
+      {"name":"Punch", "duration":3, "id":7, "power":50, "exercises_number":21},
+      {"name":"Punch", "duration":3, "id":8, "power":80, "exercises_number":14},
+      {"name":"Punch", "duration":3, "id":9, "power":100, "exercises_number":3},
+     
+      {"name":"Kick", "duration":3, "id":10, "power":50, "exercises_number":3},
+     
+      {"name":"Wrestle", "duration":3, "id":11, "power":50, "exercises_number":1},
+
+      {"name":"Sprawl", "duration":3, "id":12, "power":50, "exercises_number":1}
      ]
   },
   {"name":"fight4 MCgregor","image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/rose.png?raw=true","id":3,
