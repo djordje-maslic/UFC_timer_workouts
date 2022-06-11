@@ -238,7 +238,7 @@
       {"name":"Kick", "duration":3, "id":100, "power":50, "exercises_number":1},
 
       {"name":"Wrestle", "duration":3, "id":101, "power":50, "exercises_number":6},
-      {"name":"Wrestle", "duration":3, "id":102, "power":80, "exercises_number":10},
+      {"name":"Wrestle", "duration":3, "id":102, "power":80, "exercises_number":10}
 
    ],
    "little_ex_list3":[
