@@ -136,7 +136,7 @@
    
    ]
   },
-  {"name":"UFC 245 Usman vs. Cavington","image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/c_usman.png.png?raw=true","id":2,
+  {"name":"UFC 245 Usman vs. Cavington","image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/usman.png?raw=true","id":2,
   "big_ex_list":[{"name":"Ready", "duration":10, "id":"0"},
                  {"name":"Round1", "duration":300, "id":"1"},
                  {"name":"Rest", "duration":60, "id":"2"},
