@@ -223,7 +223,7 @@
       {"name":"Wrestle", "duration":3, "id":15, "power":80, "exercises_number":5}
       ]
   },
-   {"name":"UFC 202 Diaz vs. McGregor 2","image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/mcgregor.png?raw=true","id":0,
+   {"name":"UFC 202 Diaz vs. McGregor 2","image":"https://github.com/djordje-maslic/UFC_timer_workouts/blob/main/mcgregor1.png?raw=true","id":0,
   "big_ex_list":[{"name":"Ready", "duration":10, "id":"0"},
                  {"name":"Round1", "duration":300, "id":"1"},
                  {"name":"Rest", "duration":60, "id":"2"},
